@@ -1,0 +1,48 @@
+# US Policy Documents in Uyghur / ئامېرىكا سىياسەت ھۆججەتلىرىنىڭ ئۇيغۇرچە تەرجىمىلىرى
+
+Uyghur translations of U.S. government policy documents and DOJ press release case
+documents, published alongside their English source texts.
+
+The goal of this repository is simple: accurate, consistent, standards-compliant
+Uyghur renderings of the primary documents that concern the Uyghur people —
+congressional research reports, legislation, human rights reporting, and Department
+of Justice case documents — so that diaspora readers can read, cite, and discuss
+them in their own language with a shared vocabulary.
+
+## Documents
+
+| Document | Source | English | Uyghur |
+|---|---|---|---|
+| Transnational Repression and U.S. Policy: In Brief (CRS R49036) | [congress.gov](https://www.congress.gov/crs-product/R49036) | [EN](R49036-transnational-repression/R49036_EN.md) | [UG](R49036-transnational-repression/R49036_UG.md) |
+
+Each document folder contains the English source, the Uyghur translation, and a
+README with document metadata and key terminology decisions.
+
+## Standards
+
+- **Orthography** follows the 2009 imla standard: *Hazirqi zaman Uyghur edebiy
+  tilining imla lughiti* (ھازىرقى زامان ئۇيغۇر ئەدەبىي تىلىنىڭ ئىملا لۇغىتى),
+  Shinjang Xelq Neshriyati, 2009.
+- **Terminology** is kept consistent across all documents in this repository.
+  Reference works consulted are listed in [REFERENCES.md](REFERENCES.md).
+- **Paragraph structure** of translations follows the source documents.
+
+## Method
+
+Draft translations are machine-assisted and fully reviewed, corrected, and
+finalized by a human translator, sentence by sentence, against the English source.
+
+## Licensing / رۇخسەت قىلىنغۇچى
+
+- The **English source texts** are works of the United States Government and are
+  in the public domain (17 U.S.C. § 105). They are reproduced here from their
+  official sources, linked in each document folder.
+- The **Uyghur translations** are licensed under
+  [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+  You may share and adapt them for any purpose, including commercially, with
+  attribution to **Uyghur Reference Texts** and a link to this repository.
+
+## Citing
+
+> Uyghur Reference Texts. *[Document title]* (Uyghur translation).
+> https://github.com/UyghurReferenceTexts/us-policy-docs-ug
