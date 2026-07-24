@@ -32,7 +32,7 @@ README with document metadata and key terminology decisions.
 Draft translations are machine-assisted and fully reviewed, corrected, and
 finalized by a human translator, sentence by sentence, against the English source.
 
-## Licensing / رۇخسەت قىلىنغۇچى
+## Licensing / ئىشلىتىشكە ئىجازەت بېرىشنىڭ تەپسىلاتى (ئىجازەتنامە) 
 
 - The **English source texts** are works of the United States Government and are
   in the public domain (17 U.S.C. § 105). They are reproduced here from their
