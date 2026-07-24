@@ -21,7 +21,7 @@
 | criminal complaint | جىنايى ئەرزنامە |
 | federal charge | فېدېراتسىيە جىنايىتى |
 | federal court | فېدېراتسىيە سوت مەھكىمىسى |
-| U.S. Attorney | تەپتىش ئەمەلدارى |
+| U.S. Attorney | فېدېراتسىيە تەپتىش ئەمەلدارى |
 | Assistant U.S. Attorney | ياردەمچى فېدېراتسىيە تەپتىش ئەمەلدارى |
 | Assistant Attorney General | ياردەمچى باش تەپتىش |
 | Chief Magistrate Judge | باش كېسىمچى سوتچى |
