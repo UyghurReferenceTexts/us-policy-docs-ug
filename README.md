@@ -11,9 +11,10 @@ them in their own language with a shared vocabulary.
 
 ## Documents
 
-| Document | Source | English | Uyghur |
+| Document | Date | Source | Folder |
 |---|---|---|---|
-| Transnational Repression and U.S. Policy: In Brief (CRS R49036) | [congress.gov](https://www.congress.gov/crs-product/R49036) | [EN](R49036-transnational-repression/R49036_EN.md) | [UG](R49036-transnational-repression/R49036_UG.md) |
+| Transnational Repression and U.S. Policy: In Brief (CRS R49036) | 2025 | [congress.gov](https://www.congress.gov/crs-product/R49036) | [R49036-transnational-repression](R49036-transnational-repression/) |
+| DOJ 26-770 — [full title] | [date] | [justice.gov](URL) | [doj-26-770-sjsu](doj-26-770-sjsu/) |
 
 Each document folder contains the English source, the Uyghur translation, and a
 README with document metadata and key terminology decisions.
