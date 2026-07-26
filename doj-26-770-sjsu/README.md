@@ -26,7 +26,7 @@
 | Assistant Attorney General | ياردەمچى باش تەپتىش |
 | Chief Magistrate Judge | باش كېسىمچى سوتچى |
 | Trial Attorney | سوت تەپتىش ئەمەلدارى |
-| Civil Rights Division | كىشىلىك ھوقۇق بۆلۈمى |
+| Civil Rights Division | پۇقراۋى ھوقۇقلار بۆلۈمى |
 | Special Agent in Charge | مەسئۇل ئالاھىدە خادىم |
 | federal custody | فېدېراتسىيە تەرەپنىڭ تۇتۇپ تۇرۇشى |
 | defendants | جاۋابكارلار |
