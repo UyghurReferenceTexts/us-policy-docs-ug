@@ -14,7 +14,7 @@ them in their own language with a shared vocabulary.
 | Document | Date | Source | Folder |
 |---|---|---|---|
 | Transnational Repression and U.S. Policy: In Brief (CRS R49036) | July 15, 2026 | [congress.gov](https://www.congress.gov/crs-product/R49036) | [R49036-transnational-repression](R49036-transnational-repression/) |
-| DOJ 26-770 — Graduate Student Arrested for Hateful and Threatening Message at San Jose State University | July 13, 2026 | [[justice.gov](https://www.justice.gov/opa/pr/graduate-student-arrested-hateful-and-threatening-message-san-jose-state-university)](URL) | [doj-26-770-sjsu](doj-26-770-sjsu/) |
+| DOJ 26-770 — Graduate Student Arrested for Hateful and Threatening Message at San Jose State University | July 13, 2026 | [[justice.gov](https://www.justice.gov/opa/pr/graduate-student-arrested-hateful-and-threatening-message-san-jose-state-university)] | [doj-26-770-sjsu](doj-26-770-sjsu/) |
 | DOJ 26-813 — Investigation into Harvard's China-based financial aid programs | July 20, 2026 | [justice.gov](https://www.justice.gov/opa/pr/justice-department-launches-investigation-determine-whether-harvards-china-based-financial) | [doj-26-813-harvard](doj-26-813-harvard/) |
 
 Each document folder contains the English source, the Uyghur translation, and a
