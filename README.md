@@ -16,6 +16,8 @@ them in their own language with a shared vocabulary.
 | Transnational Repression and U.S. Policy: In Brief (CRS R49036) | July 15, 2026 | [congress.gov](https://www.congress.gov/crs-product/R49036) | [R49036-transnational-repression](R49036-transnational-repression/) |
 | DOJ 26-770 — Graduate Student Arrested for Hateful and Threatening Message at San Jose State University | July 13, 2026 | [justice.gov](https://www.justice.gov/opa/pr/graduate-student-arrested-hateful-and-threatening-message-san-jose-state-university) | [doj-26-770-sjsu](doj-26-770-sjsu/) |
 | DOJ 26-813 — Investigation into Harvard's China-based financial aid programs | July 20, 2026 | [justice.gov](https://www.justice.gov/opa/pr/justice-department-launches-investigation-determine-whether-harvards-china-based-financial) | [doj-26-813-harvard](doj-26-813-harvard/) |
+| Memorandum: United Front 101 — Introduction to United Front Work | November 27, 2023 | [chinaselectcommittee.house.gov](https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/uf-101-memo-final-pdf-version.pdf) | [united-front-101-memo](united-front-101-memo/) |
+| Don't Be a Pawn of Repressive Foreign Governments (NCSC, Safeguarding Our Future) | March 28, 2023 | [archive.dni.gov](https://archive.dni.gov/files/NCSC/documents/SafeguardingOurFuture/NCSC_SOF_2023-03-28_Dont-Be-a-Pawn.pdf) | [dont-be-a-pawn-2023](dont-be-a-pawn-2023/) |
 
 Each document folder contains the English source, the Uyghur translation, and a
 README with document metadata and key terminology decisions.
@@ -43,6 +45,9 @@ finalized by a human translator, sentence by sentence, against the English sourc
   [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
   You may share and adapt them for any purpose, including commercially, with
   attribution to **Uyghur Reference Texts** and a link to this repository.
+  Exception: `dont-be-a-pawn-2023/pawn_UG.md` is NCSC's own official Uyghur
+  translation, a U.S. Government work in the public domain. The Uyghur Reference
+  Texts translation of the same document (`pawn_UG_URT.md`) is CC BY 4.0.
 
 ## Citing
 
