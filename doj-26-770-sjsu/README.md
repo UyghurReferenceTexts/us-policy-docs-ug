@@ -19,16 +19,16 @@
 |---|---|
 | Justice Department | ئەدلىيە مىنىستىرلىقى |
 | criminal complaint | جىنايى ئەرزنامە |
-| federal charge | فېدېراتسىيە جىنايىتى |
-| federal court | فېدېراتسىيە سوت مەھكىمىسى |
-| U.S. Attorney | فېدېراتسىيە تەپتىش ئەمەلدارى |
-| Assistant U.S. Attorney | ياردەمچى فېدېراتسىيە تەپتىش ئەمەلدارى |
+| federal charge | فېدېرال جىنايى ئەيىبلەش |
+| federal court | فېدېرال سوت مەھكىمىسى |
+| U.S. Attorney | فېدېرال تەپتىش ئەمەلدارى |
+| Assistant U.S. Attorney | ياردەمچى فېدېرال تەپتىش ئەمەلدارى |
 | Assistant Attorney General | ياردەمچى باش تەپتىش |
 | Chief Magistrate Judge | باش كېسىمچى سوتچى |
 | Trial Attorney | سوت تەپتىش ئەمەلدارى |
 | Civil Rights Division | پۇقراۋى ھوقۇقلار بۆلۈمى |
 | Special Agent in Charge | مەسئۇل ئالاھىدە خادىم |
-| federal custody | فېدېراتسىيە تەرەپنىڭ تۇتۇپ تۇرۇشى |
+| federal custody | فېدېرال ئورگانلار تەرىپىدىن تۇتۇپ تۇرۇلۇش |
 | defendants | جاۋابكارلار |
 | presumed innocent | جىنايەتسىز دەپ پەرەز قىلىنىدۇ |
 | beyond a reasonable doubt | ھېچقانداق شەك-شۈبھە قالدۇرمايدىغان پۇختا پاكىتلار بىلەن |
