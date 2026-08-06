@@ -48,7 +48,7 @@ community organizations abroad to deflect criticism of Xinjiang policy.
 | ethnic minorities                                  | ئاز سانلىق مىللەتلەر                   |
 | technology transfer                                | تېخنىكا يۆتكەش                         |
 | Belt and Road Initiative                           | «بىر بەلباغ، بىر يول» تەشەببۇسى        |
-| Federal Bureau of Investigation (FBI)              | ئامېرىكا فېدېراتسىيە تەكشۈرۈش ئىدارىسى |
+| Federal Bureau of Investigation (FBI)              | فېدېرال تەكشۈرۈش ئىدارىسى |
 | new social strata                                  | يېڭى ئىجتىمائىي قاتلام                 |
 | non-public ownership economy                       | ئاممىۋى ئىگىدارلىقتىن سىرت ئىقتىساد    |
 | overseas Chinese diaspora                          | چەت ئەللەردىكى خىتاي مۇھاجىرلىرى       |
