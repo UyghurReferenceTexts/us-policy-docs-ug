@@ -20,7 +20,7 @@
 | Secretary of State | دۆلەت ئىشلىرى كاتىپى |
 | State Department | ئامېرىكا دۆلەت ئىشلىرى مەھكىمىسى |
 | U.S. Department of Justice | ئامېرىكا ئەدلىيە مىنىستىرلىقى |
-| Federal Bureau of Investigation (FBI) | فېدېراتسىيە تەكشۈرۈش ئىدارىسى |
+| Federal Bureau of Investigation (FBI) | فېدېرال تەكشۈرۈش ئىدارىسى |
 | Entity List | ئورۇنلار تىزىملىكى |
 | Executive Order | ئىجرائىيە بۇيرۇقى |
 | dissident | ئۆكتىچى |
