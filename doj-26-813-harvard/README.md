@@ -34,7 +34,7 @@
 | scholarship                      | ئوقۇش مۇكاپاتى                                        |
 | grant                            | ياردەم پۇلى                                           |
 | student financial aid            | ئوقۇش ياردەم مەبلىغى                                  |
-| federal funds                    | فېدېراتسىيە مەبلىغى                                   |
+| federal funds                    | فېدېرال مەبلىغى                                   |
 | foreign funding                  | چەت ئەل مەبلىغى                                       |
 | foreign sources                  | چەت ئەل مەنبەلىرى                                     |
 | China-based                      | خىتاينى ئاساس قىلغان                                  |
