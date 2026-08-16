@@ -79,7 +79,7 @@ to by the original Latin acronym. This keeps the text searchable against the
 English source and avoids inventing Uyghur acronyms that have no currency.
 
 **«سۇبيېكت» for *entity*.** Consistent with the analysis in
-[`README.md`](../R49036-transnational-repression/README.md), which
+[`README.md`](../R49036-transnational-repression/README.md) (R49036-transnational-repression), which
 sets out why سۇبيېكت is preferred over ئورۇن, ئىگىلىك, and گەۋدە for legal and
 policy uses of *entity*.
 
