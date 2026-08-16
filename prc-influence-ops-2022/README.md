@@ -67,8 +67,8 @@ These renderings are used consistently across all documents in this repository.
 
 ## Notes on the translation
 
-**«خىتاي خەلق جۇمھۇرىيىتى» throughout.** The English uses the abbreviation *PRC*
-on nearly every line. The Uyghur spells the name out in full with the Latin
+**On «خىتاي خەلق جۇمھۇرىيىتى» throughout.** The English uses the abbreviation *PRC* on 
+nearly every line. The Uyghur spells the name out in full with the Latin
 abbreviation in parentheses on each occurrence, following the convention used
 elsewhere in this repository for organizations identified by acronym in the
 source.
@@ -78,10 +78,7 @@ similar bodies are given a full Uyghur rendering at first mention, then referred
 to by the original Latin acronym. This keeps the text searchable against the
 English source and avoids inventing Uyghur acronyms that have no currency.
 
-**«سۇبيېكت» for *entity*.** Consistent with the analysis in
-[`README.md`](../R49036-transnational-repression/README.md) (R49036-transnational-repression), which
-sets out why سۇبيېكت is preferred over ئورۇن, ئىگىلىك, and گەۋدە for legal and
-policy uses of *entity*.
+**On «سۇبيېكت» for *entity*.** Consistent with the analysis in [`README.md`](../R49036-transnational-repression/README.md) (R49036-transnational-repression), which sets out why سۇبيېكت is preferred over ئورۇن, ئىگىلىك, and گەۋدە for legal and policy uses of *entity*.
 
 **Personal and place names.** Given in Uyghur transcription with the original
 Latin spelling in parentheses at first mention — كرىستوفر رېي (Christopher Wray),
