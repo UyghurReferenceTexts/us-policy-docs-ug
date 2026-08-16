@@ -135,7 +135,6 @@ authors, editors, translators, or publishers.
 27. **دۇنيا ئومۇمىي تارىخى (يېقىنقى زامان قىسمى)، ئىككىنچى كىتاب (1–2)** —
     compilers Liu Zouchang, Guang Rénhong, Han Chéngwén, Ai Zhuchang;
     translators Azat Almas, Tursun Yüsüp. Shinjang Xelq Neshriyati, Ürümchi,
-
     2011. ISBN 978-7-228-14233-0.
 
 28. **دۇنيا ئومۇمىي تارىخى (ئوتتۇرا ئەسىر قىسمى) (1–2)** — compiler Liu
