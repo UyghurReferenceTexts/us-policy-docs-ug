@@ -18,6 +18,7 @@ them in their own language with a shared vocabulary.
 | DOJ 26-813 — Investigation into Harvard's China-based financial aid programs | July 20, 2026 | [justice.gov](https://www.justice.gov/opa/pr/justice-department-launches-investigation-determine-whether-harvards-china-based-financial) | [doj-26-813-harvard](doj-26-813-harvard/) |
 | Memorandum: United Front 101 — Introduction to United Front Work | November 27, 2023 | [chinaselectcommittee.house.gov](https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/uf-101-memo-final-pdf-version.pdf) | [united-front-101-memo](united-front-101-memo/) |
 | Don't Be a Pawn of Repressive Foreign Governments (NCSC, Safeguarding Our Future) | March 28, 2023 | [archive.dni.gov](https://archive.dni.gov/files/NCSC/documents/SafeguardingOurFuture/NCSC_SOF_2023-03-28_Dont-Be-a-Pawn.pdf) | [dont-be-a-pawn-2023](dont-be-a-pawn-2023/) |
+| Protecting Government and Business Leaders at the U.S. State and Local Level from PRC Influence Operations (NCSC, Safeguarding Our Future) | July 6, 2022 | [odni.gov](https://www.odni.gov/files/NCSC/documents/SafeguardingOurFuture/FINAL_NCSC_Report_Protecting_Government_and_Business_Leaders.pdf) | [prc-influence-ops-2022](prc-influence-ops-2022/) |
 
 Each document folder contains the English source, the Uyghur translation, and a
 README with document metadata and key terminology decisions.
