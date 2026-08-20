@@ -54,7 +54,9 @@
 
 ---
 
-NATIONAL COUNTERINTELLIGENCE AND SECURITY CENTER
+دۆلەت جاسۇسلۇققا قارشى تۇرۇش ۋە خەۋپسىزلىك مەركىزى
+
+
 
 ئالاقە: [DNI_NCSC_OUTREACH@DNI.GOV](mailto:DNI_NCSC_OUTREACH@DNI.GOV)
 
